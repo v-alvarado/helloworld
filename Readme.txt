@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 x
+But soft, what light through yonder window breaks...
 y
-=======
->>>>>>> parent of 7a2e459... The duck

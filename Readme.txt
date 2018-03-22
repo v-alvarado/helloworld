@@ -1,2 +1,1 @@
-x
-y
+But soft, what light through yonder window breaks...
